@@ -1,5 +1,4 @@
 # Tensorflow-Study
----
 😎 Deep Learning 모델 공부 with Tensorflow
 
 ### Theme 1. Image Classification with EuroSAT
